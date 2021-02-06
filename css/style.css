@@ -3,23 +3,48 @@
   margin: 0%;
 }
 
-/*header*/
-header {
-  background-color: lightskyblue;
-  background-image: url("../img/pattern.png");
-  background-size: 265px;
-}
-
+/*common*/
 .container {
   width: 1024px;
   margin: auto;
 }
+/*fine common*/
+
+/*header*/
+header {
+  background-color: lightskyblue;
+  background-image: url("../img/pattern.png");
+  background-size: 400px;
+}
 
 .logo {
-  height: 100px;
+  height: 60px;
   margin-top: 40px;
 }
 /*fine header*/
 
 /*main*/
+main {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 45px;
+}
+
+.autore {
+  color: gray;
+  font-size: 20px;
+}
+
+.autore span {
+  color: lightskyblue;
+}
+
+.date {
+  color: gray;
+  font-size: 14px;
+}
+
 /*fine main*/
