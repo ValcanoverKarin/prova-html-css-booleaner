@@ -1,0 +1,25 @@
+/*reset*/
+* {
+  margin: 0%;
+}
+
+/*header*/
+header {
+  background-color: lightskyblue;
+  background-image: url("../img/pattern.png");
+  background-size: 265px;
+}
+
+.container {
+  width: 1024px;
+  margin: auto;
+}
+
+.logo {
+  height: 100px;
+  margin-top: 40px;
+}
+/*fine header*/
+
+/*main*/
+/*fine main*/
