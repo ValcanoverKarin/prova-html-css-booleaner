@@ -8,6 +8,10 @@
   width: 1024px;
   margin: auto;
 }
+
+.evidenziato {
+  background-color: yellow;
+}
 /*fine common*/
 
 /*header*/
@@ -45,6 +49,18 @@ h1 {
 .date {
   color: gray;
   font-size: 14px;
+}
+
+.photo {
+  margin-top: 20px;
+}
+
+.caption {
+  font-size: 12px;
+}
+
+.corpoarticolo {
+  margin-top: 20px;
 }
 
 /*fine main*/
