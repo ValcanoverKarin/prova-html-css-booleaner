@@ -85,4 +85,30 @@ table .dispari {
   background-color: lightblue;
 }
 
+.articolo-2 {
+  margin-top: 15px;
+}
 /*fine main*/
+
+/*footer*/
+footer {
+  margin-top: 20px;
+}
+
+.imgfinali {
+  color: white;
+  width: 270px;
+  height: 210px;
+  font-size: 27px;
+  margin-top: 15px;
+}
+
+#computer-rosa {
+  background-image: url("../img/monitor.jpg");
+}
+
+#computer-rosso {
+  background-image: url("../img/graph.jpg");
+}
+
+/*fine footer*/
